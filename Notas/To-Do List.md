@@ -13,7 +13,7 @@
 Propose them by Friday morning, so there is time for adjustments
 
 - [ ] Create a routine list
-- [ ] propose the creation of a Automated report system that informs about the OneDrive integration
+- [x] propose the creation of a Automated report system that informs about the OneDrive integration
 ## Next Week
 
  - [ ] 
