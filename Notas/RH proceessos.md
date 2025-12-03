@@ -1,0 +1,1 @@
+- ver com a system sobre a importação de pontos, pegar os arquivos txt para importação
