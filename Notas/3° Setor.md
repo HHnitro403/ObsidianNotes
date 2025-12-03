@@ -1,1 +1,2 @@
-- falar com o Adelir no dia 12/12
+- falar com o Adelir no dia 12/12 para ver os processos
+- Avisar o Mateus sexta
