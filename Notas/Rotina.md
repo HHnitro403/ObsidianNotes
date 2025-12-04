@@ -122,13 +122,13 @@ Submeter os seguintes relatórios semanalmente:
 
 ## Tarefas Prioritárias Atuais
 
-| Descrição da Tarefa | Data de Início | Previsão de Término | Solicitado Por | Responsável | Status |
-| ------------------- | -------------- | ------------------- | -------------- | ----------- | ------ |
-|                     |                |                     |                |             |        |
-|                     |                |                     |                |             |        |
-|                     |                |                     |                |             |        |
-|                     |                |                     |                |             |        |
-|                     |                |                     |                |             |        |
+| Descrição da Tarefa | Data de Início | Previsão de Término | Solicitado Por | Responsável | Status       |
+| ------------------- | -------------- | ------------------- | -------------- | ----------- | ------------ |
+| List telefonica     | 04/12/2025     | 18/12/2025          | Mateus         | Felipe, Ana | Em andamento |
+|                     |                |                     |                |             |              |
+|                     |                |                     |                |             |              |
+|                     |                |                     |                |             |              |
+|                     |                |                     |                |             |              |
 
 **Instruções:**
 - Adicionar tarefas prioritárias conforme são atribuídas

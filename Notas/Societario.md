@@ -1,0 +1,1 @@
+Aplicativo para informar(via email) o vencimento do documentos que estão prestes a vencer e precisam se renovados, ou agendados para a renovação, possibilitando colocar observações e lembretes
