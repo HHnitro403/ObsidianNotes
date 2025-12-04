@@ -202,19 +202,9 @@
               "icon": "lucide-list",
               "title": "Outline of Rotina"
             }
-          },
-          {
-            "id": "0f19aa76d9ba7688",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -234,7 +224,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0f19aa76d9ba7688",
+  "active": "eea7e5cdac6b78dd",
   "lastOpenFiles": [
     "Notas/To-Do List.md",
     "Notas/Rotina.md",
