@@ -47,6 +47,7 @@
 - **Se os suprimentos estiverem baixos:**
   - Reabastecer bandejas de papel conforme necessário
   - Substituir cartuchos baixos ou vazios
+  - Reabastecer tanques de tinta que estiverem com nível baixo
   - Atualizar log de inventário de impressoras
 - **Se os suprimentos reserva estiverem baixos:**
   - Verificar níveis de estoque atuais contra inventário padrão
