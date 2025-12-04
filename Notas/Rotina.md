@@ -122,13 +122,13 @@ Submeter os seguintes relatórios semanalmente:
 
 ## Tarefas Prioritárias Atuais
 
-| Descrição da Tarefa | Data de Início | Previsão de Término | Solicitado Por | Responsável |
-|---------------------|----------------|---------------------|----------------|-------------|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Descrição da Tarefa | Data de Início | Previsão de Término | Solicitado Por | Responsável | Status |
+| ------------------- | -------------- | ------------------- | -------------- | ----------- | ------ |
+|                     |                |                     |                |             |        |
+|                     |                |                     |                |             |        |
+|                     |                |                     |                |             |        |
+|                     |                |                     |                |             |        |
+|                     |                |                     |                |             |        |
 
 **Instruções:**
 - Adicionar tarefas prioritárias conforme são atribuídas
